@@ -1,0 +1,9 @@
+export const VIEWS = Object.freeze({
+	FILES: "FILES",
+	CHATS: "CHATS",
+	CLIENTS: "CLIENTS",
+	RUN: "RUN",
+	COPILOT: "COPILOT",
+	SETTINGS: "SETTINGS",
+	TERMINAL: "TERMINAL", 
+});
